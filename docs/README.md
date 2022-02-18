@@ -1,5 +1,4 @@
-# component-library
-
+# Hello VuePress
 ### 快速开始
 
 #### 1.安装组件库
@@ -19,4 +18,3 @@ import 'della-ui/dist/card.css';
 import { Card } from'della-ui'
 Vue.use(Card);
 ```
-
